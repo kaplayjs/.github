@@ -1,4 +1,6 @@
-## Hi there 👋
+## Roar 🦖
+
+We're the KAPLAY Team, and we work on stuff related to KAPLAY, a JavaScript & TypeScript game library for HTML5 games.
 
 <!--
 
