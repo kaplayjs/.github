@@ -1,14 +1,10 @@
 ## Roar 🦖
 
-We're the KAPLAY Team, and we work on stuff related to KAPLAY, a JavaScript & TypeScript game library for HTML5 games.
+The [**KAPLAY Team**](https://github.com/kaplayjs/kaplay/wiki/Development-Team) is a collective of developers that with the help of wonderful contributors, constructs KAPLAY.js and all software related  to it.
 
-<!--
+### Useful Links
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Our website](https://kaplayjs.com/)
+- [Getting Started](https://kaplayjs.com/guides/)
+- [Download KAPLAY](https://kaplayjs.com/guides/install/)
+- [❤️ Donate to KAPLAY](https://opencollective.com/kaplay)
